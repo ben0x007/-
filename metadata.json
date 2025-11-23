@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Neon Tetris Ultra",
+  "description": "A high-performance, aesthetically pleasing Tetris clone built with React, TypeScript, and Tailwind CSS. Features ghost pieces, hard drops, hold functionality, and responsive controls.",
+  "requestFramePermissions": []
+}
